@@ -11,6 +11,10 @@
 
 LLM Engineer 2 is a Grafana panel plugin that brings the power of Large Language Models (LLMs) to your observability dashboards. With a single click, it captures your entire dashboard and uses Google's Gemini AI to provide intelligent analysis, insights, and observations about your metrics, trends, and anomalies.
 
+## 🎬 Demo
+
+![Demo](./docs/images/example1.gif)
+
 ### ✨ Key Features
 
 - **🤖 AI-Powered Analysis**: Leverages Google Gemini 2.0 to understand and analyze your dashboard metrics
